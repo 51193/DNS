@@ -1,0 +1,1 @@
+g++ my_nslookup.cpp -o my_nslookup.exe -I. -L"C:\Users\24184\Downloads\Lib\x64" -lwpcap -lws2_32

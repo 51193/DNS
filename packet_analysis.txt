@@ -1,0 +1,45 @@
+----------------------------------
+Data Link Layer: 
+Destination MAC: 10:4f:58:6c:0c:00
+Source MAC: 70:a6:cc:3e:97:39
+Type: 800
+
+IP Layer: 
+Source IP: 10.129.88.199
+Destination IP: 114.114.114.114
+
+UDP Layer: 
+Source Port: 9999
+Destination Port: 53
+Length: 34
+
+DNS Layer: 
+Transaction ID: 0x1234
+Flags: 0x100
+Questions: 1
+Answer RRs: 0
+Authority RRs: 0
+Additional RRs: 0
+----------------------------------
+Data Link Layer: 
+Destination MAC: 70:a6:cc:3e:97:39
+Source MAC: 10:4f:58:6c:0c:00
+Type: 800
+
+IP Layer: 
+Source IP: 114.114.114.114
+Destination IP: 10.129.88.199
+
+UDP Layer: 
+Source Port: 53
+Destination Port: 9999
+Length: 62
+
+DNS Layer: 
+Transaction ID: 0x1234
+Flags: 0x8180
+Questions: 1
+Answer RRs: 1
+Authority RRs: 0
+Additional RRs: 0
+AAAA Record: 2620:01ec:0c11:0000:0000:0000:0000:0200

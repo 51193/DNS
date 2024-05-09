@@ -1,0 +1,8 @@
+DNS Server IP: 114.114.114.114
+Domain1: bing
+Domain2: com
+Local MAC: 70-A6-CC-3E-97-39
+Gateway MAC: 10-4f-58-6c-0c-00
+Local IP: 10.129.88.199
+Source Port: 9999
+Query IPv6: Yes
